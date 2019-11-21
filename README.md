@@ -1,1 +1,1 @@
-Tier List Generator
+# Tier List Generator
